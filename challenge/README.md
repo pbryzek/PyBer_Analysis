@@ -28,12 +28,14 @@ The summary dataframe presents us with Total Rides, Drivers, and Fares segmented
 - Total Drivers ratio: 1 : 6.3 : 30.8
 - Total Fares ratio: 1 : 4.47 : 9.2
 - Urban cities accounted for 13x the total rides, nearly 31x as many drivers, and ultimately over 9x more fares earned than that of Rural cities. 
+<br/>
 These numbers clearly show that Urban areas was the city type that demonstrated the most total rides, drivers, and total fares. Suburban cities logically fell inbetween Urban and Rural showing higher numbers in each category than those of Rural cities but less than those of Urban Cities. 
 
 The data for Average Fare per Ride and Average Fare per Driver demonstrated the opposite pattern.
 - In both averages, Rural cities had the highest values while Urban had the lowest
 - Ratios of average fare per ride were (1: 1.26: 1.4) for (Urban, Suburban, and Rural cities)
 - Ratios of Average Fare per driver were (1: 2.4: 3.3)
+<br/>
 We can observe a clear pattern - rural cities have higher average fares per ride and fares per driver than those of Urban and Suburban cities. We may infer that this could be due to longer average travel distances in rural areas, resulting in higher fare amounts.
 
 As Urban cities tend to be denser in population and city services than Suburban cities, which are denser than Rural cities, we can observe a pattern that PyBer tends to be more widely used in denser cities, supporting more rides, drivers, and ultimately total fares. 
